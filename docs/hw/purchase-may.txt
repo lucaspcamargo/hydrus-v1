@@ -1,0 +1,42 @@
+Intel Embedded Systems Competition
+Water Quality Aquatic Drone Team
+
+                   Component Purchase May '16
+
+#
+# STUFF TO BUY:
+#
+
+1x  TMP36GT9Z temperature sensor:
+http://www.newark.com/analog-devices/tmp36gt9z/temperature-sensor-3c-to-92-3/dp/19M9015?MER=PPSO_N_C_Sensors_Level0Bottom_US
+
+2x turbidity sensor:
+http://www.newark.com/amphenol-advanced-sensors/tsd-10/turbidity-sensor-5vdc-phototransistor/dp/18X9859
+
+1x ph test probe:
+http://www.newark.com/tenma/72-6784/test-ph/dp/17C6509?ost=ph+probe&selectedCategoryId=&categoryId=800000053002&iscrfnonsku=false
+
+2x INA125P amplifier (for ph probe):
+http://www.newark.com/texas-instruments/ina125p/instrument-amplifier-150khz-114db/dp/35C1726
+
+4x HC-SR04 ultrasonic proximity module:
+Not found at Newark or Mouser! No cheap equivalents found on these sites...
+http://www.filipeflop.com/pd-6b8a2-sensor-de-distancia-ultrassonico-hc-sr04.html
+
+8x waterproof ultrasonic transducer replacement:
+http://www.newark.com/multicomp/mcusr18a40b12rs/receiver-40khz-18mm-metal/dp/17X2023
+
+2x wifi antenna (for wifi card, two are required):
+http://www.newark.com/anaren/66089-2406/antenna-66089-24c-2400mhz-u-fl/dp/91T5763
+
+
+# 
+#  INFO LINKS
+#
+
+turbidity module info:
+https://world.taobao.com/item/35775247517.htm?fromSite=main&spm=a312a.7700824.w4004-5383379984.17.3S8ijS 
+
+ph metering:
+http://www.66pacific.com/ph/simplest_ph.aspx
+https://github.com/hephesto/phduino

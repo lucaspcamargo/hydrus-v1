@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name Maestro)(type KiCad)(uri "$(KIPRJMOD)/Maestro.pretty")(options "")(descr ""))
+  (lib (name arduino-nano)(type Legacy)(uri "$(KIPRJMOD)/arduino-nano.mod")(options "")(descr ""))
+  (lib (name Hydrus)(type KiCad)(uri "$(KIPRJMOD)/Hydrus.pretty")(options "")(descr ""))
+)

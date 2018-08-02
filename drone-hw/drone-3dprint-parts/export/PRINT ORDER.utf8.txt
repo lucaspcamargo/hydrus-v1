@@ -1,0 +1,24 @@
+To whom it may concern,
+
+This is our enquiriy for printing of parts for Hydrus project at LID.
+
+We require the following parts to be printed, in the specified amounts:
+
+    3 x axle-adapter.stl
+    3 x propeller.stl
+    1 x galileo-support.stl
+    1 x mpcie-adapter.stl
+    
+All parts
+    
+There are no specific requirements on the materials to be used, so they can be 
+cheap, as long as they are sturdy. The board support and the mPCIe adapter can 
+be printed on the cheap. The propeller and axle adapter are mechanical parts and 
+therefore need to be printed in good material (ABS?). We are looking for the 
+best cost/benefit ratio.
+
+Thank you,
+
+Lucas Camargo
+Team Cap @ Hydrus
+UFSC Joinville

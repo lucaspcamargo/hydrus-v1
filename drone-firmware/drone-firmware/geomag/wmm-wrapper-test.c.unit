@@ -1,0 +1,15 @@
+#include "wmm-wrapper.h"
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+    wmm_t wmm;
+    
+    wmm_init(&wmm);
+    
+    printf("declination of 30 30 is %f deg\n", wmm_declination_deg(wmm, 30, 30, 0));
+    
+    wmm_destroy(&wmm);
+    return 0;
+}

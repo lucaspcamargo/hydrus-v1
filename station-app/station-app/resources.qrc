@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/logo-v2-standalone.png</file>
+        <file>res/project-logo-v2.png</file>
+        <file>res/project-logo-v2-sm.png</file>
+        <file>res/glass-refl.png</file>
+        <file>res/digital_7/digital-7 (mono).ttf</file>
+    </qresource>
+</RCC>
